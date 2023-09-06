@@ -1,0 +1,14 @@
+base address: 0x40078000
+board name: CY-X610-H651-A
+cmdline: bootopt=64S3,32N2,64N2 buildvariant=user
+dtb offset: None
+header version: 1
+image type: AOSP
+kernel offset: 0x00008000
+original size: 33554432
+os version: 9.0.0
+page size: 2048
+ramdisk compression: None
+ramdisk offset: 0x11a88000
+sigtype: AVBv2
+tags offset: 0x07808000
